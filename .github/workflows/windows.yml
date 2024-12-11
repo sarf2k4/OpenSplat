@@ -1,6 +1,7 @@
 name: OpenSplat (Windows CUDA)
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
